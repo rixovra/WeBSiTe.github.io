@@ -1,0 +1,46 @@
+#main-title {
+        color:#003300;
+        font-size: 40px;
+        text-align:center;
+      }
+#image{
+  border: 3px solid black;
+  border-radius: 10px
+}
+#img{
+  height: 300px;
+  width: 600px;
+}
+.highlight{
+  color: #374b42;
+  font-weight:bold;
+}
+body{
+  font-family: Georgia, Serif;
+  background-color: #a5b1ab;
+  color: #313836;
+}
+p {
+  font-size: 14px;
+  color:#011f10
+}
+img{
+  width: 200px;
+}
+ul {
+  margin-left: 20px;
+  color: #313836;
+}
+h3{
+  color:#374b42
+}
+a:hover {
+  color:#083238;
+  text-decoration: underline;
+}
+img:hover {
+  opacity: 0.7;
+}
+
+
+  
